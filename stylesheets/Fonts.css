@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'PTRootUIWebMedium';
+	src: url('../Fonts/PT Root UI Medium/PT%20Root%20UI_Medium.eot');
+	src:
+        url('../Fonts/PT Root UI Medium/PT%20Root%20UI_Regular.eot?#iefix') format('embedded-opentype'),
+	     url('../Fonts/PT Root UI Medium/PT%20Root%20UI_Medium.woff2') format('woff2'),
+	     url('../Fonts/PT Root UI Medium/PT%20Root%20UI_Medium.woff') format('woff'),
+	     url('../Fonts/PT Root UI Medium//fonts/PT Root UI_Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal; }
+
+
+
+  @font-face {
+  	font-family: 'PTRootUIWebRegular';
+  	src: url('../Fonts/PT Root UI Regular/PT%20Root%20UI_Regular.eot');
+  	src:
+  	     url('../Fonts/PT Root UI Regular/PT%20Root%20UI_Regular.eot?#iefix') format('embedded-opentype'),
+  	     url('../Fonts/PT Root UI Regular/PT%20Root%20UI_Regular.woff2') format('woff2'),
+  	     url('../Fonts/PT Root UI Regular/PT%20Root%20UI_Regular.woff') format('woff'),
+  	     url('../Fonts/PT Root UI Regular/PT%20Root%20UI_Regular.ttf') format('truetype');
+  	font-weight: normal;
+  	font-style: normal;  }
+
+    @font-face {
+  	font-family: 'PTRootUIWebLight';
+  	src: url('../Fonts/PT Root UI Light/PT%20Root%20UI_Light.eot');
+  	src:
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Light.eot?#iefix') format('embedded-opentype'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Light.woff2') format('woff2'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Light.woff') format('woff'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Light.ttf') format('truetype');
+  	font-weight: normal;
+  	font-style: normal;
+  }
+
+
+  @font-face {
+  	font-family: 'PTRootUIWebBold';
+  	src: url('../Fonts/PT Root UI Light/PT%20Root%20UI_Bold.eot');
+  	src:
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Bold.eot?#iefix') format('embedded-opentype'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Bold.woff2') format('woff2'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Bold.woff') format('woff'),
+  	     url('../Fonts/PT Root UI Light/PT%20Root%20UI_Bold.ttf') format('truetype');
+  	font-weight: normal;
+  	font-style: normal;
+  }
